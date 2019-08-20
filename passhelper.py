@@ -7,7 +7,7 @@ from time import sleep
 
 print("Welcome in PassHelper!")
 print("Author: Piotr Ptaszek\n")
-print("This program will help you strengthen your password proposal to make it stronger.\n")
+print("This program will help you strengthen your password proposal \nto make it stronger \nor generate you a new password.\n")
 
 pas = []
 answer = input("What do you want to do:\n1 - help to strengthen your password proposal\n2 - generate password\nI want this program to: ")
